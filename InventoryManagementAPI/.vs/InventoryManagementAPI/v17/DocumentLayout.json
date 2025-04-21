@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\users\\yashs\\onedrive\\desktop\\chatboxapi\\inventorymanagementapi\\inventorymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\users\\yashs\\onedrive\\desktop\\chatboxapi\\inventorymanagementapi\\inventorymanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\users\\yashs\\onedrive\\desktop\\chatboxapi\\inventorymanagementapi\\inventorymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\users\\yashs\\onedrive\\desktop\\chatboxapi\\inventorymanagementapi\\inventorymanagementapi\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\users\\yashs\\onedrive\\desktop\\chatboxapi\\inventorymanagementapi\\inventorymanagementapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\users\\yashs\\onedrive\\desktop\\chatboxapi\\inventorymanagementapi\\inventorymanagementapi\\inventorymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{518F5D6E-0DA3-4754-9C7F-49E980A0F9C0}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\inventorymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:58:25.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\appsettings.json",
+              "RelativeToolTip": "InventoryManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T07:48:35.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\Program.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:01:29.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:59:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Models\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\InventoryItem.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Models\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:53:45.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryManagementAPI",
+              "DocumentMoniker": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\InventoryManagementAPI.csproj",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\InventoryManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\yashs\\OneDrive\\Desktop\\ChatBoxAPI\\InventoryManagementAPI\\InventoryManagementAPI\\InventoryManagementAPI.csproj",
+              "RelativeToolTip": "InventoryManagementAPI\\InventoryManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T07:52:03.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
